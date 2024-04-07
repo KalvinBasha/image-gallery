@@ -1,8 +1,6 @@
 const thumbContainer = document.getElementById("thumb-container");
 const displayImage = document.getElementById("display");
 
-let imageIndex = 0;
-
 const images = [
   {
     url: "./assets/image1.jpg",
