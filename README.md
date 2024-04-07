@@ -1,1 +1,5 @@
 # image-gallery
+This week was the week I struggled with the most when it came to retaining the information, I am finding JavaScript the hardest but the longer I spend on something the more familar and confident I become with it.
+It took a long time to figure out the images using JavaScript, was a pain sorting the thumbnails and larger image, I did do a lot of googling and looking back at Tim's demo and recording. After that it went pretty smoothly as I was styling it all and I'm fairly confident with everything we have learned on CSS, anything I am not confident on seems to be an easy fix by googling and understanding.
+I think I have achieved all of the requirements for the 3 marks. You can use Tab and Enter on my website to change the images and go through my image gallery, I am not sure if that will be enough for a 4 as I couldn't get the arrow keys working.
+The last thing I will mention is something I struggled understanding in my code and that is some of the eventListener and appendChild code. I know it works but I don't have a complete thorough understanding of why and how, understanding this a bit more in depth I think would definitely help next time.
